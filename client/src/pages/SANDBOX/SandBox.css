@@ -1,0 +1,32 @@
+@media screen and (max-width: 780px) {
+    table {
+        font-size: 0.8em !important;
+    }
+
+    .table > :not(caption) > * > * {
+        padding: 0.2rem 0.2rem !important;
+    }
+
+    td button.btn {
+        padding: 3px !important;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    table {
+        font-size: 0.8em !important;
+    }
+
+    .table > :not(caption) > * > * {
+        padding: 0.2rem 0.2rem !important;
+    }
+
+    .userId,
+    .phone {
+        display: none;
+    }
+
+    td button.btn {
+        padding: 3px !important;
+    }
+}

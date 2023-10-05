@@ -1,0 +1,35 @@
+.App {
+    text-align: center;
+}
+
+#root .dark {
+    background-color: #1c1f23;
+    color: white;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: var(--bs-dark);
+        color: var(--bs-light);
+    }
+}
+
+#app {
+    overflow: hidden;
+    min-height: 100vh;
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}

@@ -1,0 +1,11 @@
+.dropdown-menu {
+    left: -94px !important;
+}
+
+#actions.navbar-nav {
+    flex-direction: row;
+}
+
+.navbar-nav .dropdown-menu {
+    position: absolute !important;
+}

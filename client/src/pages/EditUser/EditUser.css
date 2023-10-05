@@ -1,0 +1,22 @@
+.left-input {
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 50%;
+    background-color: transparent;
+}
+
+.right-input {
+    width: 50%;
+    margin-bottom: 20px;
+    background-color: transparent;
+}
+
+#submit {
+    width: 100%;
+    font-weight: 600;
+    margin-top: 10px;
+    height: 6vh;
+}
+
+@media screen and (max-width: 545px) {
+}

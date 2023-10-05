@@ -1,0 +1,36 @@
+.left-input {
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 33vw;
+    background-color: transparent;
+}
+
+.right-input {
+    width: 33vw;
+    margin-bottom: 20px;
+    background-color: transparent;
+}
+
+.box {
+    margin-left: -20px;
+}
+
+#cancel {
+    border: 1px solid red;
+    margin-right: 10px;
+    width: 43vw;
+    height: 6vh;
+}
+
+#refresh {
+    border: 1px solid blue;
+    width: 43vw;
+    height: 6vh;
+}
+
+#submit {
+    width: 100%;
+    font-weight: 600;
+    margin-top: 10px;
+    height: 6vh;
+}

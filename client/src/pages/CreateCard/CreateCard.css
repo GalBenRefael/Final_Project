@@ -1,0 +1,13 @@
+#createCard .row {
+    width: 70%;
+}
+
+@media screen and (max-width: 400px) {
+    #createCard .row {
+        width: 100%;
+    }
+}
+
+#createCard button {
+    width: 100%;
+}
