@@ -25,7 +25,7 @@ const businessCards = [
     bizTitle: 'The Italian',
     bizSubTitle: 'Pizza Italiano',
     bizDescription: 'The best pizza you',
-    bizPhone: '050215846548',
+    bizPhone: '0502158465',
     bizCategory: 'Dining',
     bizImage:
       'https://cdn.pixabay.com/photo/2017/12/10/14/47/pizza-3010062_640.jpg',
@@ -110,7 +110,7 @@ const businessCards = [
     bizTitle: 'Fidelity Construction',
     bizSubTitle: 'Remodel your house',
     bizDescription: 'We are building the future!',
-    bizPhone: '05055511478',
+    bizPhone: '0505551147',
     bizCategory: 'Construction',
     bizImage:
       'https://cdn.pixabay.com/photo/2017/08/03/21/37/construction-2578410_640.jpg',
